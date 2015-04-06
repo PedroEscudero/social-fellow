@@ -19,7 +19,6 @@ It also allows to share each active post or page directly from its admin panel.
 == Installation ==
 
 
-
 1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
