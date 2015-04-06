@@ -2,7 +2,7 @@
 /*
 Plugin Name: Social Fellow
 Description: List how many times your content is shared in different social networks. Also Allows to shared it from an internal panel.
-Version: 1.0
+Version: 1.0 
 Author: Pedro Escudero
 Author URI: http://es.linkedin.com/in/pedroescuderozumel/es
 Plugin URI: http://github.com/social-fellow

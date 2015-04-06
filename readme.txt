@@ -28,7 +28,7 @@ It also allows to share each active post or page directly from its admin panel.
 
 
 
-== Screenshots ==
+== Screenshots == 
 
 1. social-fellow.jpg View of the control panel of social fellow plugin. 
 
